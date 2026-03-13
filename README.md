@@ -18,9 +18,9 @@
    <li> Expandir minhas habilidades </li>
  </ul>
 
-<div>
- <img src="https://github-readme-stats.vercel.app/api?username=mateusty&show_icons=true&theme=calm_pink"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusty&size_weight=0.5&count_weight=0.5&theme=calm_pink&layout=donut"/>
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusty&show_icons=true&theme=calm_pink"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusty&size_weight=0.5&count_weight=0.5&theme=calm_pink&layout=donut"/>
 </div>
 
 ![snake gif](https://github.com/mateusty/mateusty/blob/output/github-contribution-grid-snake-dark.svg)
