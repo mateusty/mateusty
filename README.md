@@ -1,7 +1,7 @@
 <h1>👋 Meu nome é Mateus Tamaki e seja bem vindo ao meu perfil! </h1>
 <p> Encontro alegria na matemática e na programação, gosto de resolver novos problemas de forma inovadora <p>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,py&theme=py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,py&theme=dark)](https://skillicons.dev)
 
 
 
