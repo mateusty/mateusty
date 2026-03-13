@@ -7,6 +7,10 @@
 
 <h2>🚩 Objetivos </h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2500&pause=2000&color=F7A600&width=435&lines=Now%2C+Fight+a+new+Rival!" alt="Typing SVG" /></a>
+ <ul>
+   <li> Busco aprofundar meus conhecimentos</li>
+   <li> Expandir minhas habilidades </li>
+ </ul>
 
 
 
