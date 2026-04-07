@@ -1,5 +1,5 @@
 <h1>👋 Meu nome é Mateus Tamaki e seja bem vindo ao meu perfil! </h1>
-<p> Encontro alegria na matemática e na programação, gosto de resolver novos problemas de forma inovadora <p>
+<p> Curioso sobre matemática e programação, gosto de resolver novos problemas de forma inovadora <p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,8 +19,10 @@
  </ul>
 
 <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusty&show_icons=true&theme=calm_pink"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusty&size_weight=0.5&count_weight=0.5&theme=calm_pink&layout=donut"/>
+  <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mateusty&theme=dark&locrle=pt_BR" />
+     <img src="https://streak-stats.demolab.com/?user=mateusty&border_radius=10&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D"/>
+  </picture>
 </div>
 
 ![snake gif](https://github.com/mateusty/mateusty/blob/output/github-contribution-grid-snake-dark.svg)
