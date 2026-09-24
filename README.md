@@ -1,22 +1,11 @@
 <h1>👋 Meu nome é Mateus Tamaki e seja bem vindo ao meu perfil! </h1>
-<p> Curioso sobre matemática e programação, gosto de resolver novos problemas de forma inovadora <p>
+<p> Desenvolvedor Fullstack, procuro estudar e praticar para evoluir constantemente.<p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,py,java,git&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,java,git,spring,dotnet&theme=dark&perline=3" />
   </a>
 </p>
-
-
-
-<h2>🚩 Objetivos </h2>
-<p align="center"
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2500&pause=2000&color=F7A600&width=435&lines=Now%2C+Fight+a+new+Rival!" alt="Typing SVG" /></a>
-</p>
- <ul>
-   <li> Busco aprofundar meus conhecimentos</li>
-   <li> Expandir minhas habilidades </li>
- </ul>
 
 <div align="center">
   <picture>
