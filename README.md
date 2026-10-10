@@ -28,7 +28,7 @@ Gosto tanto de aprofundar meus conhecimentos em tecnologias conhecidas quanto de
 
 ### 🚀 Principais Tecnologias & Ferramentas
 - **Backend:** Java (Spring Boot, JPA, Spring Security), TypeScript (Node.js, Express)
-- **Banco de Dados:** PostgreSQL, MySQL, NoSQL
+- **Banco de Dados:** PostgreSQL, MongoDb
 - **Arquitetura & Conceitos:** APIs RESTful, WebSockets, Mensageria, Arquitetura em Camadas
 - **DevOps & Ferramentas:** Git, Docker & Docker Compose, Testes Unitários (JUnit)
 
